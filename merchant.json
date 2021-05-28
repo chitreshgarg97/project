@@ -1,0 +1,34 @@
+ [   
+                     { "mid"         : "GSTIN0001",  
+                       "mName"       : "Dmart",
+                       "mPhonenumber": 7234567890,
+					   "memailid"    : "customerservice@dmart.in",
+					   "mcity"       : "New York"
+					 },
+                     { "mid"         : "GSTIN0002",  
+                       "mName"       : "Reliance",
+                       "mPhonenumber": 6234517890,
+					   "memailid"    : "customerservice@reliance.in",
+					   "mcity"       : "New Delhi"
+					 },
+					 { "mid"         : "GSTIN0003",  
+                       "mName"       : "More",
+                       "mPhonenumber": 9123456789,
+					   "memailid"    : "customerservice@more.in",
+					   "mcity"       : "Hyderabad"
+					 },
+					 { "mid"         : "GSTIN0004",  
+                       "mName"       : "Almond House",
+                       "mPhonenumber": 8123456789,
+					   "memailid"    : "customerservice@almond.in",
+					   "mcity"       : "Jodhpur"
+					 },
+					 { "mid"         : "GSTIN0005",  
+                       "mName"       : "Indian Silk House",
+                       "mPhonenumber": 7212345678,
+					   "memailid"    : "customerservice@ISH.in",
+					   "mcity"       : "Nellore"
+					 }
+						
+              ]
+			 
